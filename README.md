@@ -16,7 +16,7 @@ npm run test
 Start the local network
 
 ```
-npm run dev
+npm start dev
 ```
 
 ## Tecstack Used
